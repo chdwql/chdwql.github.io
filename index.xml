@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Malvo的个人网站</title>
+    <title>Malvo</title>
     <link>http://chdwql.github.io/</link>
-    <description>Recent content on Malvo的个人网站</description>
+    <description>Recent content on Malvo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Thu, 13 Jun 2019 16:02:09 +0800</lastBuildDate>
@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>欢迎你来到我的网站！</title>
+      <title>欢迎来到我的主页！</title>
       <link>http://chdwql.github.io/post/first/</link>
       <pubDate>Thu, 13 Jun 2019 16:02:09 +0800</pubDate>
       
