@@ -3,29 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://chdwql.github.io/</loc>
+    <loc>https://chdwql.github.io/</loc>
     <lastmod>2019-06-13T16:02:09+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://chdwql.github.io/post/</loc>
+    <loc>https://chdwql.github.io/post/</loc>
     <lastmod>2019-06-13T16:02:09+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://chdwql.github.io/post/first/</loc>
+    <loc>https://chdwql.github.io/post/first/</loc>
     <lastmod>2019-06-13T16:02:09+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://chdwql.github.io/categories/</loc>
+    <loc>https://chdwql.github.io/about/</loc>
+    <lastmod>2019-06-13T16:00:19+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chdwql.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://chdwql.github.io/tags/</loc>
+    <loc>https://chdwql.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
