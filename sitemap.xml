@@ -3,14 +3,21 @@
   
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2019-06-13T16:02:09+08:00</lastmod>
+    <lastmod>2019-08-30T10:18:09+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://localhost:1313/post/</loc>
-    <lastmod>2019-06-13T16:02:09+08:00</lastmod>
+    <lastmod>2019-08-30T10:18:09+08:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/second/</loc>
+    <lastmod>2019-08-30T10:18:09+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -35,12 +42,6 @@
   <url>
     <loc>http://localhost:1313/tags/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/post/second/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
   </url>
   
 </urlset>

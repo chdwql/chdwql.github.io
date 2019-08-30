@@ -6,10 +6,19 @@
     <description>Recent content on Malvo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 13 Jun 2019 16:02:09 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 30 Aug 2019 10:18:09 +0800</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>量化交易</title>
+      <link>http://localhost:1313/post/second/</link>
+      <pubDate>Fri, 30 Aug 2019 10:18:09 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/second/</guid>
+      <description>#量化交易策略 ##价值投资 成长股内在价值投资：http://www.joinquant.com/post/541 三一投资管理公司价值选股法：</description>
+    </item>
     
     <item>
       <title>初衷</title>
@@ -27,15 +36,6 @@
       
       <guid>http://localhost:1313/about/</guid>
       <description>本站旨在建立一个地震前兆学科学习共享平台。 以Python语言为基础，聚集一批愿意将自己的研究方法和代码贡献出来的朋友， 一起打造一个共享、开源</description>
-    </item>
-    
-    <item>
-      <title>量化交易</title>
-      <link>http://localhost:1313/post/second/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/post/second/</guid>
-      <description>#量化交易策略 ##价值投资 成长股内在价值投资：http://www.joinquant.com/post/541 三一投资管理公司价值选股法：</description>
     </item>
     
   </channel>
