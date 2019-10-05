@@ -1,41 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Malvo</title>
+    <title>Malvo on Malvo</title>
     <link>http://chdwql.github.io/</link>
-    <description>Recent content on Malvo</description>
+    <description>Recent content in Malvo on Malvo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 04 Oct 2019 10:18:09 +0800</lastBuildDate>
-    
-	<atom:link href="http://chdwql.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>常用种子搜索引擎</title>
-      <link>http://chdwql.github.io/post/third/</link>
+      <title>Posts</title>
+      <link>http://chdwql.github.io/post/</link>
       <pubDate>Fri, 04 Oct 2019 10:18:09 +0800</pubDate>
       
-      <guid>http://chdwql.github.io/post/third/</guid>
-      <description>老王磁力：https://laowang.icu 磁力柠檬：https://lemoncili.com SkrBT：https://skrbt2</description>
-    </item>
-    
-    <item>
-      <title>量化交易</title>
-      <link>http://chdwql.github.io/post/second/</link>
-      <pubDate>Fri, 30 Aug 2019 10:18:09 +0800</pubDate>
-      
-      <guid>http://chdwql.github.io/post/second/</guid>
-      <description>量化交易策略 价值投资 成长股内在价值投资：http://www.joinquant.com/post/541 三一投资管理公司价值选股法：htt</description>
-    </item>
-    
-    <item>
-      <title>初衷</title>
-      <link>http://chdwql.github.io/post/first/</link>
-      <pubDate>Thu, 13 Jun 2019 16:02:09 +0800</pubDate>
-      
-      <guid>http://chdwql.github.io/post/first/</guid>
-      <description>在这里，先说说这些年工作的体会吧！ 我是做前兆学科的。 工作这些年来，一直觉得前兆数据用起来非常麻烦，这种“麻烦”体现在各个环节，获取、分享、使</description>
+      <guid>http://chdwql.github.io/post/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -44,7 +23,10 @@
       <pubDate>Thu, 13 Jun 2019 16:00:19 +0800</pubDate>
       
       <guid>http://chdwql.github.io/about/</guid>
-      <description>本站旨在建立一个地震前兆学科学习共享平台。 以Python语言为基础，聚集一批愿意将自己的研究方法和代码贡献出来的朋友， 一起打造一个共享、开源</description>
+      <description>&lt;p&gt;本站旨在建立一个地震前兆学科学习共享平台。
+以Python语言为基础，聚集一批愿意将自己的研究方法和代码贡献出来的朋友，
+一起打造一个共享、开源、和谐的平台，期待您的加入。&lt;/p&gt;
+</description>
     </item>
     
   </channel>
