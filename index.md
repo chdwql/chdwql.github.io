@@ -6,3 +6,12 @@ title: Home
 
 在这里，我将分享关于 Python、地球物理分析以及更多有趣的内容。
 
+## 文章列表
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      <span>({{ post.date | date: "%Y-%m-%d" }})</span>
+    </li>
+  {% endfor %}
+</ul>
