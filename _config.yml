@@ -19,7 +19,6 @@ plugins:
 
 # Build settings
 future: true
-timezone: Asia/Shanghai
 
 # Exclude from processing.
 exclude:
