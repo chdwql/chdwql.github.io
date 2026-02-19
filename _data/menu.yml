@@ -1,0 +1,8 @@
+entries:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: "---" # Separator
+  - title: Posts
+    post_list: true
