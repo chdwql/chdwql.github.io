@@ -1,4 +1,5 @@
 title: Malvo's Blog
+author: Malvo
 email: devilmares@gmail.com
 description: >-
   先完成，再完美。
@@ -14,6 +15,7 @@ theme_config:
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-seo-tag
 
 # Build settings
 future: true
