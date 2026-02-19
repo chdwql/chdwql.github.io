@@ -6,7 +6,7 @@ baseurl: ""
 url: "https://chdwql.github.io"
 
 # Theme settings
-remote_theme: rreiss/no-style-please
+remote_theme: riggraz/no-style-please
 
 plugins:
   - jekyll-feed
