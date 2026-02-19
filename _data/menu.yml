@@ -1,8 +1,5 @@
 entries:
   - title: Posts
     post_list: true
-  - title: "---" # 分隔线
-  - title: Email
-    url: "mailto:devilmares@gmail.com"
   - title: GitHub
     url: "https://github.com/chdwql"
