@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "新篇章：我的个人博客重启"
-date:   2026-02-19 19:50:00 +0800
+date: 2026-02-19
 categories: jekyll update
 ---
 今天，我决定清理掉过去那些繁冗、不再维护的静态文件，使用 **Jekyll** 重新开启我的博客之旅。

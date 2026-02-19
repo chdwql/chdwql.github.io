@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+permalink: /about/
 ---
 
 本站旨在建立一个地震前兆学科学习共享平台。

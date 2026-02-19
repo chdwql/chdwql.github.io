@@ -12,6 +12,10 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
 
+# Build settings
+future: true
+timezone: Asia/Shanghai
+
 # no-style-please theme specific settings
 # Navigation links
 nav:
