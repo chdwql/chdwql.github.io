@@ -1,0 +1,30 @@
+title: Malvo's Blog
+email: your-email@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  先完成，再完美。
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://chdwql.github.io" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  chdwql
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
