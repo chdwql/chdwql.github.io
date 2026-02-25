@@ -6,34 +6,22 @@ description: >-
 baseurl: ""
 url: "https://chdwql.github.io"
 
-# Theme settings
-remote_theme: brianmaierjr/long-haul
+# 使用 GitHub Pages 官方原生支持的 Minima 主题
+theme: minima
 
-# Long Haul specific settings
-paginate: 20
-paginate_path: "/blog/page:num/"
-permalink: /blog/:title/
+# Minima 配置
+header_pages:
+  - about.md
 
-navigation:
-    - title: Home
-      url: /index.html
-    - title: About
-      url: /about.html
-
-social:
-    github: chdwql
-    email: devilmares@gmail.com
-
+# 插件配置
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
   - jekyll-seo-tag
-  - jekyll-paginate
 
-# Build settings
+# 允许显示未来日期的文章
 future: true
 
-# Exclude from processing.
+# 忽略临时文件
 exclude:
   - .sass-cache/
   - .jekyll-cache/
@@ -41,7 +29,4 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - node_modules/
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
+  - vendor/
