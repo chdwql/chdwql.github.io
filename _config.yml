@@ -11,7 +11,7 @@ nav:
   - About=/about.html
   - TAGS=/tags.html
   - RSS=/feed.xml
-  - 🔍SEARCH=/search.html
+  - SEARCH=/search.html
 
 # 插件配置
 plugins:
