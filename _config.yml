@@ -7,13 +7,22 @@ baseurl: ""
 url: "https://chdwql.github.io"
 
 # Theme settings
-remote_theme: patdryburgh/hitchens
+remote_theme: brianmaierjr/long-haul
 
-# Hitchens specific settings
-show_excerpts: true
-excerpt_length: 20
+# Long Haul specific settings
 paginate: 20
-paginate_path: "/page/:num/"
+paginate_path: "/blog/page:num/"
+permalink: /blog/:title/
+
+navigation:
+    - title: Home
+      url: /index.html
+    - title: About
+      url: /about.html
+
+social:
+    github: chdwql
+    email: devilmares@gmail.com
 
 plugins:
   - jekyll-feed
