@@ -3,6 +3,7 @@ layout: post
 title:  "我的个人博客重启"
 date: 2026-02-19 20:20:00 +0800
 categories: personal
+tags: [Jekyll, 博客]
 ---
 今天，我决定清理掉过去那些繁冗、不再维护的静态文件，使用 **Jekyll** 重新开启我的博客之旅。
 
