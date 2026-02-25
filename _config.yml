@@ -7,7 +7,8 @@ baseurl: ""
 url: "https://chdwql.github.io"
 
 # Theme settings
-remote_theme: patdryburgh/hitchens
+theme: hitchens-theme
+ignore_theme_config: true
 
 # Hitchens specific settings
 show_excerpts: true
