@@ -1,10 +1,5 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.3.3"
-
-group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.17"
-  gem "jekyll-remote-theme"
-  gem "jekyll-seo-tag"
-  gem "jekyll-paginate"
-end
+# 使用 github-pages gem 以确保与 GitHub Pages 环境兼容
+# 这会自动包含 Jekyll 和一些常见的插件（包括 jekyll-paginate）
+gem "github-pages", group: :jekyll_plugins
